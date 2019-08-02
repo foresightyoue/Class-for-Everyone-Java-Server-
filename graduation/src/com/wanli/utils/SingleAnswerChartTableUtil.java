@@ -115,7 +115,7 @@ public class SingleAnswerChartTableUtil extends Dialog {
 		// 设置y值
 		chart.getAxisSet().getXAxis(0).enableCategory(true);
 		chart.getAxisSet().getXAxis(0).setCategorySeries(cagetorySeries);
-		chart.getAxisSet().getXAxis(0).getTick().setTickLabelAngle(45);
+//		chart.getAxisSet().getXAxis(0).getTick().setTickLabelAngle(45);
 		
 		// 添加柱形图
 		ISeries barSeries = chart.getSeriesSet().createSeries(SeriesType.BAR,
@@ -139,7 +139,7 @@ public class SingleAnswerChartTableUtil extends Dialog {
 		// 设置y值
 		chart.getAxisSet().getXAxis(0).enableCategory(true);
 		chart.getAxisSet().getXAxis(0).setCategorySeries(optionXSeries);
-		chart.getAxisSet().getXAxis(0).getTick().setTickLabelAngle(45);
+//		chart.getAxisSet().getXAxis(0).getTick().setTickLabelAngle(45);
 		
 		// 添加柱形图
 		IBarSeries barSeries = null;

@@ -18,7 +18,7 @@ public class DBUtilsUser {
 		//Mysql配置时的用户名
 		String user = "root";
 		//Mysql配置时的密码
-		String password = "123456";
+		String password = "root";
 		
 		try {
 			//加载驱动程序

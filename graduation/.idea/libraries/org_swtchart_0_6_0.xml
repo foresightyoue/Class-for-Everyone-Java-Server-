@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.swtchart_0.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.swtchart_0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/org.swtchart_0.6.0.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
